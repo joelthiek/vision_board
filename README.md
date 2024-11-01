@@ -9,7 +9,7 @@ With a focus on user experience and real-time collaboration, TeamCollab Whiteboa
 Frontend | Backend | Fullstack
 
 ## Deplolyed App
-[Deployed link](https://unit4project.netlify.app/)
+[Deployed link](https://leojvisionboard.netlify.app/)
 
 ## Github Repo
 [Visit GitHub](https://github.com/manojRawat5/Green-Coders_002)
